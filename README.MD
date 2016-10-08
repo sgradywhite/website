@@ -5,3 +5,5 @@ Enough™ Git to Be Dangerous*](http://learnenough.com/git-tutorial), possibly t
 
 After finishing *Learn Enough™ Git to Be Dangerous*,
 you'll know enough Git to be *dangerous*. This means you'll be able to use Git to track changes in your projects, back up data, share your work with others, and collaborate with programmers other users of Git.
+
+And here is the [*Official Git documentation*](https://git-scm.com/documentation).
